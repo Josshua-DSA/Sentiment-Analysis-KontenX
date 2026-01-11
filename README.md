@@ -1,6 +1,6 @@
 # Sentiment Analysis Konten di platform X
 
-Proyek ini bertujuan untuk mengumpulkan data tweet dari Twitter menggunakan tool `tweet-harvest` dan menganalisisnya menggunakan Python pandas.
+Proyek ini bertujuan untuk mengumpulkan data tweet dari Twitter menggunakan tool `tweet-harvest` dan menyimpan hasil scraping data menggunakan Python pandas. Setelah melakukan penyimpanan menjadi file csv, data akan dianalisis sentimennya menggunakan modul Sastrawi, nltk, dan beberapa modul lain.
 
 ## Deskripsi Proyek
 
@@ -10,7 +10,7 @@ Project ini melakukan scraping/crawling data tweet berdasarkan keyword tertentu 
 
 ### Software yang Dibutuhkan
 - Node.js (versi 20.x)
-- Python dengan library pandas
+- Python dengan library pandas,
 - Sistem operasi berbasis Linux/Ubuntu (atau environment yang mendukung apt-get)
 
 ### Token Autentikasi
