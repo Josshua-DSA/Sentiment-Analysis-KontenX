@@ -1,5 +1,4 @@
-# Sentiment-Analysis-KontenX
-# Twitter Data Scraping Project
+# Sentiment Analysis Konten di platform X
 
 Proyek ini bertujuan untuk mengumpulkan data tweet dari Twitter menggunakan tool `tweet-harvest` dan menganalisisnya menggunakan Python pandas.
 
